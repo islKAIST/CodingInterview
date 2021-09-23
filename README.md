@@ -1,4 +1,4 @@
-# CodingInterview
+# Coding_Interview
 
 Thank you for applying to ISL!
 
